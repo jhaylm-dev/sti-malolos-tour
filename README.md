@@ -76,17 +76,22 @@ The main feature is the **360° virtual tour**, built with **Pannellum**.
 
 ## Source Code
 
-This is a **client project**, so the source code is private and not publicly available. This repository is a showcase of the website only.
+This is a **client project**, so the source code is private and not publicly available. This repository is a showcase of the system only.
 
-If you'd like to know more about how it was built, feel free to reach out.
+If you'd like to know more about how it was built, feel free to reach out through my GitHub profile: **[github.com/jhaylm-dev](https://github.com/jhaylm-dev)**.
 
 ---
 
 ## Author
 
-**Jhay Landrei B. Marcelino**
-<!-- Add your portfolio / LinkedIn / email links, and the live site link if the client allows it -->
+Full stack development of the whole platform: the Flutter parent app, the React web portals, the Wails desktop packaging, and the Go backend with its database design.
+
+**Jhay Landrei Marcelino**: Full-Stack Software Developer (Flutter, Dart, Go, Python, C#/.NET) based in Laguna, Philippines.
 
 ---
 
-This repository is a portfolio showcase of a client project; the source code is not included. STI College Malolos branding and photos belong to their respective owners.
+## Notes
+
+Screenshots use sample/demo data. This repository is a portfolio showcase of a client project; the source code is not included.
+
+© 2025 STI Malolos College Tour. All rights reserved.
